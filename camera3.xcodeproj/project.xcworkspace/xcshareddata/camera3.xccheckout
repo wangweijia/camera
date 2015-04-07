@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BC712E0-7DDD-4B49-BCE7-0327B0BD935C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>camera3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48DAD6792C939A93A9D767538EF09D8EEFD9D368</key>
+		<string>https://github.com/wangweijia/camera.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>camera3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48DAD6792C939A93A9D767538EF09D8EEFD9D368</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangweijia/camera.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48DAD6792C939A93A9D767538EF09D8EEFD9D368</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48DAD6792C939A93A9D767538EF09D8EEFD9D368</string>
+			<key>IDESourceControlWCCName</key>
+			<string>camera</string>
+		</dict>
+	</array>
+</dict>
+</plist>
